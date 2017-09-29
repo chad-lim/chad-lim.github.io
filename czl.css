@@ -9,6 +9,7 @@ body {
 #paragraph-post{
 	text-align: center | justify;
 	font-family: 'Work Sans', sans-serif;
+	width: 33%
 }
 
 #paragraph-postAbout{
@@ -21,9 +22,11 @@ body {
 
 #paragraph-postDetails{
 	position: absolute;
-	right: 0px;
-	width: 50%;
+	right: 30px;
+	width: 33%;
 }
+
+
 
 .image{
 	height: 100%;
