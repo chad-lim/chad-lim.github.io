@@ -22,6 +22,7 @@ body {
 
 #paragraph-postDetails{
 	position: absolute;
+	top: 129%;
 	right: 30px;
 	width: 33%;
 }
@@ -89,6 +90,13 @@ body {
 	text-align: center;
 	font-family: 'Sanchez', serif;
 	padding-top: 100px;
+	color: white;
+}
+
+.closing{
+	
+	text-align: right;
+	font-family: 'Sanchez', serif;
 	color: white;
 }
 
