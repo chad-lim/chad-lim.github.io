@@ -94,10 +94,10 @@ body {
 }
 
 .closing{
-
+	background: black;
 	text-align: right;
 	font-family: 'Sanchez', serif;
-	color: white;
+	color:white;
 }
 
 a.button {
